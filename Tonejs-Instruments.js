@@ -8,7 +8,7 @@
 var SampleLibrary = {
     minify: false,
     ext: '.[mp3|ogg]', // use setExt to change the extensions on all files // do not change this variable //
-    baseUrl: '/samples/',
+    baseUrl: 'https://nbrosowsky.github.io/tonejs-instruments/samples/"',
     list: ['bass-electric','guitar-acoustic','guitar-electric','guitar-nylon', 'harp', 'piano','xylophone'],
     onload: null,
   

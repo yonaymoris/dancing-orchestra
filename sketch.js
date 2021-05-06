@@ -10,7 +10,7 @@ let instruments = [
 ];
 let samples = SampleLibrary.load({
   instruments: instruments,
-  baseUrl: "/samples/",
+  baseUrl: "https://nbrosowsky.github.io/tonejs-instruments/samples/",
 });
 
 let current;
